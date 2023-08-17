@@ -1,0 +1,76 @@
+.btn-start{
+  background-color: greenyellow;
+  color: #444444;
+}
+
+.btn-stop{
+  background-color: red;
+  color: #444444;
+}
+
+.btn-start:hover{
+  background-color: greenyellow;
+  color: #444444;
+}
+
+.btn-stop:hover{
+  background-color: red;
+  color: #444444;
+}
+
+.btn-start:focus{
+  background-color: greenyellow;
+  color: #444444;
+}
+
+.btn-stop:focus{
+  background-color: red;
+  color: #444444;
+}
+.disabled{
+  background-color: #ddddd0;
+  color: #444444;
+}
+
+.DecrementCounter{
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  align-items: center;
+ 
+}
+
+.form-control{
+  margin-top: 20px;
+  border: 1px solid #d1d0d0 ;
+  width: 50%; 
+  background-color: beige;
+}
+
+#button {
+  float: left;
+  box-shadow: 0 0 2px #444444;
+}
+
+.btn{
+  border: 1px solid black ;
+  margin-top: 10px;
+ 
+}
+
+#display-timer {
+  color: #ffffff;
+  align-items: center;
+}
+
+strong {
+  zoom: 2.5;
+
+}
+
+body {
+  background-image: url('C:\Users\Vithya\html\react_test1\decrementCounterToZero\src\BH_AccretionDisk_Sim_Stationary.gif');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}

@@ -1,0 +1,15 @@
+.ui.container{
+  align-items: center;
+}
+
+.display-text{
+  color: white;
+  zoom: 2.5;
+}
+
+body {
+  background-image: url('C:\Users\Vithya\html\react_test1\decrementCounterToZero\src\fruit.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
